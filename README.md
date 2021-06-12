@@ -12,6 +12,9 @@
 <a href="https://facebook.com">
   <img align="left" alt="Sumit Kumar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+<a href="https://medium.com/@sumitka194">
+  <img align="left" alt="Sumit Kumar - Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <br />
 <br />
 

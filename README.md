@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/sumit194/">
+<a href="https://www.linkedin.com/in/sumitka194/">
   <img align="left" alt="Sumit Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/mishra.sumit.94">

@@ -26,6 +26,9 @@ Technologies I worked:
 - React Native
 - Node
 - GraphQL
+- Webpack
+- Babel
+- Micro-frontend
 
 
 Thanks
